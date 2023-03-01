@@ -12,8 +12,6 @@ I am an undergraduate Computer Science at UT Dallas. I've previously interned at
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavpillai&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="raghavpillai's Github Stats">
 
-
-">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavpillai&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/raghavpillai)
 
 
