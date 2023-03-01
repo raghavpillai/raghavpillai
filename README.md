@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there! I'm Raghav! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2 align="center"> Hey there! <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Raghav! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3 align="center"> 👨🏻‍💻 About Me </h3>
 
