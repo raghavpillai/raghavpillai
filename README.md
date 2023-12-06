@@ -4,7 +4,7 @@
 
 <hr>
 
-I am an undergraduate Computer Science at UT Dallas. I've previously interned at Amazon, worked in UTD's Applied Systems Lab in autonomous vehicle research, and was a software consultant. I'm proficient in cloud architecture and artificial intelligence applications. I've had a variety of experiences across languages, libraries and frameworks. 
+Co-Founder and CTO @ [Speck](https://speck.chat/). Previously at Anduril, Amazon, UTD's Applied Systems Lab for autonomous vehicle research, and software consultanting.
 
 <hr>
 
@@ -18,6 +18,6 @@ I am an undergraduate Computer Science at UT Dallas. I've previously interned at
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/RaghavPillai3" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/raghav-pillai/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/rag_pil" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=256&id=ClbD5JTFM7FA&format=png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/raghav-pillai/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=256&id=67570&format=png" width="50" /></a>
 </p>
