@@ -4,7 +4,7 @@
 
 <hr>
 
-Co-Founder and CTO @ [Speck](https://speck.chat/). Previously at Anduril, Amazon, UTD's Applied Systems Lab for autonomous vehicle research, and software consultanting.
+Co-Founder and CTO @ [Speck](https://speck.chat/). Previously at Anduril, Amazon and UT Dallas Applied Systems Lab for autonomous vehicle research.
 
 <hr>
 
