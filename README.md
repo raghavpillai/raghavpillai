@@ -1,10 +1,10 @@
-<h2 align="center"> Hey there! <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Raghav! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2 align="center"> Hey, <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Raghav! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3 align="center"> 👨🏻‍💻 About Me </h3>
 
 <hr>
 
-Co-Founder and CTO @ [Speck](https://speck.chat/). Previously at Anduril, Amazon and UT Dallas Applied Systems Lab for autonomous vehicle research.
+Co-Founder & CTO @ [Speck](https://speck.chat/) (YC W24). Prev @ Anduril, Amazon and UT Dallas applied systems lab for AV research.
 
 <hr>
 
@@ -15,7 +15,7 @@ Co-Founder and CTO @ [Speck](https://speck.chat/). Previously at Anduril, Amazon
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavpillai&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/raghavpillai)
 
 
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
+<h3 align="center"> Connect w/ me! </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/rag_pil" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=256&id=ClbD5JTFM7FA&format=png" width="50" /></a>  
