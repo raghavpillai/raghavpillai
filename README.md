@@ -17,5 +17,5 @@ Co-Founder & CTO @ [Speck](https://speck.chat/) (YC W24). Prev @ Anduril, Amazon
 <p align="center">
 &nbsp; <a href="https://twitter.com/rag_pil" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=256&id=ClbD5JTFM7FA&format=png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/raghav-pillai/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=256&id=13930&format=png" width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/raghav-pillai/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=256&id=63807&format=png" width="50" /></a>
+&nbsp; <a href="https://raghav.sh/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=256&id=63807&format=png" width="50" /></a>
 </p>
