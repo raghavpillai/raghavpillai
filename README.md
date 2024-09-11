@@ -10,7 +10,6 @@ Co-Founder & CTO @ [Speck](https://speck.chat/) (YC W24). Prev @ Anduril, Amazon
 
 <br><br>
 
-![theshteves Github stats](https://github-readme-stats.vercel.app/api?username=raghavpillai&show_icons=true&count_private=true&hide=contribs)
 ![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavpillai&layout=compact)
 
 
