@@ -1,6 +1,6 @@
 <h2 align="center"> Hey, <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Raghav! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-Co-Founder & CTO @ [Speck](https://speck.chat/) (YC W24). Prev @ Anduril, Amazon and UT Dallas applied systems lab for AV research.
+Co-Founder @ [Speck](https://speck.sh/) (YC W24). Prev @ Anduril, Amazon and UTD applied systems lab for AV research.
 
 <hr>
 
